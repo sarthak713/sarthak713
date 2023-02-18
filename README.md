@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sarthak Bhardwaj</h1>
 <h3 align="center">CS Student, Skilled Front-End Dev, Programmer</h3>
-<img align="right" alt="It's all a Journey" width="300" src="https://images.squarespace-cdn.com/content/v1/5c528d9e96d455e9608d4c63/1586379635937-DUGHB6LHU59QIVDH2QHZ/Hiker.gif?format=1500w">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak713" alt="sarthak713" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak713" alt="sarthak713" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sarthak_713" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_713?logo=twitter&style=for-the-badge" alt="sarthak_713" /></a> </p>
 
@@ -16,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yXIwiSWLNHnFx7wbpKH8g8DW0dGY3WEH/view](https://drive.google.com/file/d/1yXIwiSWLNHnFx7wbpKH8g8DW0dGY3WEH/view)
 
-- ⚡ Fun fact **Reading, Endurance Sports, Exploring**
+- ⚡ Love **Reading, Endurance Sports, Exploring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
