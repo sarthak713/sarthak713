@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sarthakbhardwaj713@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yXIwiSWLNHnFx7wbpKH8g8DW0dGY3WEH/view](https://drive.google.com/file/d/1yXIwiSWLNHnFx7wbpKH8g8DW0dGY3WEH/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oOEK1muj353vns16xXrgpFI0uU4TogN6/view?usp=sharing](https://drive.google.com/file/d/1oOEK1muj353vns16xXrgpFI0uU4TogN6/view?usp=sharing)
 
 - ⚡ Love **Reading, Endurance Sports, Exploring**
 
