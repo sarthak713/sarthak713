@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/sarthak_713" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_713?logo=twitter&style=for-the-badge" alt="sarthak_713" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Development**
+- ⚡ Proficient in **Data Structures & Algorithms**
 
 - 📝 Connect on other Platforms [https://sarthak713.github.io/Links/](https://sarthak713.github.io/Links/)
 
