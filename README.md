@@ -5,17 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/sarthak_713" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_713?logo=twitter&style=for-the-badge" alt="sarthak_713" /></a> </p>
 
-- 💪 Skillful in **Frontend Development**
-- 🌱 Currently learning **Backend Development**
-- ⚡ Proficient in **Data Structures & Algorithms**
+- 💪 Skillful in **Full Stack Development**
+- ⚡ Proficient in **Data Structures & Algorithms C++**
 
 - 📝 Connect on other Platforms [https://sarthak713.github.io/Links/](https://sarthak713.github.io/Links/)
 
-- 💬 Ask me about **React, JavaScript, C++, HTML, CSS, Node, Express, MongoDB, Tailwind, SASS, Typescript, MUI**
-
 - 📧 Reach me **sarthakbhardwaj713@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oOEK1muj353vns16xXrgpFI0uU4TogN6/view?usp=sharing](https://drive.google.com/file/d/1oOEK1muj353vns16xXrgpFI0uU4TogN6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kJmhsTJIqei72Kk33EnilfrVYxC9uqwT/view?usp=share_link](https://drive.google.com/file/d/1kJmhsTJIqei72Kk33EnilfrVYxC9uqwT/view?usp=share_link)
 
 - ⚡ Love **Reading, Endurance Sports, Exploring**
 
