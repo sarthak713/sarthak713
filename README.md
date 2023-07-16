@@ -12,8 +12,6 @@
 
 - 📧 Reach me **sarthakbhardwaj713@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kJmhsTJIqei72Kk33EnilfrVYxC9uqwT/view?usp=share_link](https://drive.google.com/file/d/1kJmhsTJIqei72Kk33EnilfrVYxC9uqwT/view?usp=share_link)
-
 - ⚡ Love **Reading, Endurance Sports, Exploring**
 
 <h3 align="left">Connect with me:</h3>
