@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sarthak Bhardwaj</h1>
-<h3 align="center">CS Student, Skilled Website Developer, Programmer</h3>
+<h3 align="center">CS Student, Skilled Website Developer, Software Engineer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak713" alt="sarthak713" /></a> </p>
 
